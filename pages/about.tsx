@@ -18,6 +18,7 @@ export default function AboutPage() {
 	)
 }
 
+
 AboutPage.getLayout = function getLayout (page: ReactElement) {
 	return (
 		<MainLayout>
